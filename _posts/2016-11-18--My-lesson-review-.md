@@ -1,5 +1,5 @@
 ---
-title:  My lesson review 
+title:  lesson 2
 layout: post
 author: piers.lane
 permalink: /-my-lesson-review-/
